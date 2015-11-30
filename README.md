@@ -10,3 +10,6 @@ Steps to recreate this repo from scratch:
 6. Hit Run in XCode, this will start the React Packager and the Simulator
 7. Modify your `index.ios.js`file to look like the one of the repo
 8. Reload in simulator
+
+It should look like this:
+![Screenshot](react-native-tableview.png)
